@@ -6,7 +6,7 @@ f.request({
 	"method" : "GET",
 	"url" : "https://passport.suning.com/ids/login",
 	"data" : {
-		"wd" : "fetch-url"
+		"wd" : "node-fetch-url"
 	}
 }, function(err, data){
 	err ? console.log(err) : console.log(data);

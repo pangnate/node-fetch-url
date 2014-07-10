@@ -1,1 +1,1 @@
-module.exports = require("./lib/fetch-url.js");
+module.exports = require("./lib/node-fetch-url.js");

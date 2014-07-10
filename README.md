@@ -1,11 +1,11 @@
-fetch-url
+node-fetch-url
 =========
 
 Node.js的网页抓取模块，支持GET/POST/PUT/DELETE协议。可用于RESTful接口的调用
 
 #Demo
 
-	var f = require("fetch-url");
+	var f = require("node-fetch-url");
 	f.request({
 		"headers" : {
 			"Cookie" : "somekey=somevalue"
@@ -21,8 +21,8 @@ Node.js的网页抓取模块，支持GET/POST/PUT/DELETE协议。可用于RESTfu
 
 #Testing
 
-	$ git clone https://github.com/pangnate/fetch-url
-	$ cd fetch-url
+	$ git clone https://github.com/pangnate/node-fetch-url
+	$ cd node-fetch-url
 	$ npm install
 	$ npm test
 	

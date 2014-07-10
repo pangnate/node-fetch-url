@@ -1,5 +1,5 @@
 {
-	"name": "fetch-url",
+	"name": "node-fetch-url",
 	"description": "Requests an address through GET/POST/PUT/DELETE.",
 	"version": "0.1.0",
 	"keywords": ["GET", "POST", "PUT", "DELETE", "fetch-url"],
@@ -10,12 +10,12 @@
 	"main": "./lib/fetch-url.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/pangnate/fetch-url"
+		"url": "https://github.com/pangnate/node-fetch-url"
 	},
 	"bugs": {
-		"url": "https://github.com/pangnate/fetch-url/issues"
+		"url": "https://github.com/pangnate/node-fetch-url/issues"
 	},
-	"homepage": "https://github.com/pangnate/fetch-url",
+	"homepage": "https://github.com/pangnate/node-fetch-url",
 	"dependencies": {
 		"iconv-lite": "~0.2.7"
 	}
